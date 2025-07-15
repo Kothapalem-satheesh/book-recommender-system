@@ -39,8 +39,13 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/YourUsername/book_recommender_system.git
+# Clone the repository
+git clone https://github.com/satheeshyadav/book_recommender_system.git
+
+# Go into the project directory
 cd book_recommender_system
+
+
 Run the Setup Script (Recommended):
 The setup.sh script might automate environment creation and dependency installation.
 
